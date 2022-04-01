@@ -4,6 +4,8 @@
 
 ### 배포 링크
 [현재 레포지토리 배포 링크](https://caredoc-sun0-1106.netlify.app)<br>
+다음 버튼을 눌러도 다음 페이지가 없기 때문에 넘어가지 않습니다.
+
 [팀 레포지토리 배포 링크](https://caredoc-1.netlify.app/)
 
 ### 프로젝트 실행 방법
